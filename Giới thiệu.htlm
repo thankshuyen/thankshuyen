@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <a href="Trang chủ.html" target="self"> Trang Chủ </a>
+      <a href="Giới Thiệu.html" target="self">Giới Thiệu</a>
+        <a href="Liên hệ.html" target="self">Liên hệ </a>
+    </head>
+    <body>
+        <h1> Thông tin cá nhân </h1>
+        <p>Họ tên Nguyễn Thanh Huyền </p>
+        <p>Năm sinh 2005 </p>
+        <p> Quê quán Hà Nội</p>
+       
+    </body>
+</html>
